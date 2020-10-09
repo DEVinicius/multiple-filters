@@ -20,6 +20,7 @@
     "minimum-stability": "dev",
     "require": {
         "league/plates": "v4.0.0-alpha",
-        "coffeecode/router": "dev-master"
+        "coffeecode/router": "dev-master",
+        "coffeecode/datalayer": "dev-master"
     }
 }
